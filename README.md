@@ -33,7 +33,7 @@ async function sendData() {
 Old-fashioned javascript imports
 ```javascript
 const superagent = require('superagent');
-const { json22Plugin } =  require('superagent-json22');
+const { json22Plugin } = require('superagent-json22');
 ```
 
 ## Options
